@@ -1,1 +1,2 @@
 what is colaboration in git?
+Collaboration in Git refers to the process by which multiple individuals or teams work together on the same project using Git as a version control system. It enables a shared and synchronized development environment, allowing contributors to manage, track, and integrate changes efficiently.
